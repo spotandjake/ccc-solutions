@@ -1,0 +1,3 @@
+# senior
+Problem 1 - This is the same as problem 4 from the junior so I resubmitted it.
+Problem 5 - This is not complete and would not pass the test suites it does the correct thing as far as I know but would not finish in the given or any practical time limit. This problem seems to require background knowledge on the Cantor Set which I do not have yet. Without that the only option which I used is essentially a pretty form of brute forcing with a few sprinkled optimizations I noticed. This was not programmed during the competition and was programmed after for fun.
